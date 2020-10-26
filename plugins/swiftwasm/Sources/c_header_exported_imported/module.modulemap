@@ -1,0 +1,4 @@
+module c_header_exported_imported {
+  header "exported.h imported.h"
+  export *
+}
